@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Ansha Anilkumar</h1>
-<h3 align="center">A passionate Flutter developer from India</h3>
+<h1 align="center">Hey 👋, I'm Ansha Anilkumar</h1>
+<h3 align="center"> Flutter Developer </h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshaanilkumar&label=Profile%20views&color=0e75b6&style=flat" alt="anshaanilkumar" /> </p>
 
-- 🌱  **Flutter, Api, Provider, Hive, SqfLite**
+- 🌱  **Flutter, Api, Provider, SqfLite**
 
 - 💬 Ask me about **Android Flutter**
 
